@@ -15,7 +15,7 @@
 
 ### Organization skills
 - Psychiatrist in a psychiatric hospital (09/2010 - Present)
-Work Experience
+- Founder of a private company (since 09/2014)
 
 
 ### Education
@@ -26,7 +26,7 @@ Work Experience
 
 2. Udemy:  
 - JS course
-- HTML course
+- HTML, CSS course
 
 3. English level
 A1 (began to study)
