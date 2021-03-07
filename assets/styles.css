@@ -28,10 +28,14 @@ a {
 } 
 
 .page-description {
-   color: grey;
+   color: rgb(224, 224, 224);
    font-size: 16px;
 }
 
 .footer-class {
   margin-top: 40px;
+}
+
+.content-header-test {
+  color: rgb(71, 64, 64);
 }
